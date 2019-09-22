@@ -2,7 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Model" referent="17">
+	<Item class="Model" referent="20">
 		<Properties>
 			<CoordinateFrame name="ModelInPrimary">
 				<X>0</X>
@@ -22,7 +22,7 @@
 			<Ref name="PrimaryPart">null</Ref>
 			<BinaryString name="Tags"></BinaryString>
 		</Properties>
-		<Item class="Part" referent="18">
+		<Item class="Part" referent="21">
 			<Properties>
 				<bool name="Anchored">true</bool>
 				<float name="BackParamA">-0.5</float>
@@ -96,8 +96,22 @@
 					<Z>100</Z>
 				</Vector3>
 			</Properties>
+			<Item class="Decal" referent="RBXA1BBF3625CC74FF68FB467B0579CDE45">
+				<Properties>
+					<Color3 name="Color3">
+						<R>1</R>
+						<G>1</G>
+						<B>1</B>
+					</Color3>
+					<token name="Face">1</token>
+					<string name="Name">Decal</string>
+					<BinaryString name="Tags"></BinaryString>
+					<Content name="Texture"><url>rbxasset://sky/moon.jpg</url></Content>
+					<float name="Transparency">0.5</float>
+				</Properties>
+			</Item>
 		</Item>
-		<Item class="Model" referent="19">
+		<Item class="Model" referent="22">
 			<Properties>
 				<CoordinateFrame name="ModelInPrimary">
 					<X>0</X>
@@ -117,7 +131,7 @@
 				<Ref name="PrimaryPart">null</Ref>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
-			<Item class="Part" referent="20">
+			<Item class="Part" referent="23">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -192,7 +206,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="21">
+			<Item class="Part" referent="24">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -267,7 +281,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="22">
+			<Item class="Part" referent="25">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -342,7 +356,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="23">
+			<Item class="Part" referent="26">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -417,7 +431,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="24">
+			<Item class="Part" referent="27">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -492,7 +506,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="25">
+			<Item class="Part" referent="28">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>

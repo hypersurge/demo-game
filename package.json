@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"build": "rbxtsc && rojo build --output build.rbxlx",
+		"build": "rbxtsc -w",
 		"install-rojo": "cargo install --force --git https://github.com/LPGhatguy/rojo.git"
 	},
 	"repository": {
