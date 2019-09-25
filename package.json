@@ -20,6 +20,7 @@
 	"homepage": "https://github.com/roblox-ts/demo#readme",
 	"dependencies": {
 		"@rbxts/services": "^1.0.25",
-		"@rbxts/types": "^1.0.273"
+		"@rbxts/types": "^1.0.273",
+		"@rbxts/new": "^1.0.1"
 	}
 }
